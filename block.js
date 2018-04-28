@@ -6,3 +6,4 @@ function block(x, y){
 		fill(100, 1, 100);
 		rect(this.x, this.y, 80, 30)
 	}
+}
